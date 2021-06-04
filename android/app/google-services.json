@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703986166025",
+    "project_id": "kost-app",
+    "storage_bucket": "kost-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703986166025:android:89de9c91f2f826c1b74bd8",
+        "android_client_info": {
+          "package_name": "com.rizaradiarivaldo.kostapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703986166025-th40s0u778a6f5jein22fu7ed2ldcj3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPTHExuDC8BDf6pl02xXFDFc13a4L8ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703986166025-th40s0u778a6f5jein22fu7ed2ldcj3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
